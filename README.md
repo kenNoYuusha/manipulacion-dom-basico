@@ -5,5 +5,6 @@
 ```js
     const h2 = document.querySelector("h2");
     const h3 = document.querySelector("#titulo");
+    const p = document.querySelector(".parrafo");
 
 ```
